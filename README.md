@@ -15,7 +15,7 @@ A simple command-line notes application built with Node.js. This app allows user
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/nemanja87/simple-node-note-app.git
    cd notes-app
 
 ## How to use it
